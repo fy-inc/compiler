@@ -1,0 +1,15 @@
+wget https://raw.githubusercontent.com/shekhar349/CD/master/CLR.cpp 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/LR0items.cpp 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/LRparsing.cpp 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/firstfollow.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/index.txt -O index2.cpp 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/opp.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/parsingGrammar.cpp 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/predictive.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/predictive1.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/slr.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/srp1.c 2> /dev/null
+wget https://raw.githubusercontent.com/shekhar349/CD/master/srp2.c 2> /dev/null
+
+
+wget --no-check-certificate --content-disposition -q https://bit.ly/2I2x20f
